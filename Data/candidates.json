@@ -1,0 +1,350 @@
+{
+	"Candidates": [{
+		"name": "Agnezka Seize-Soinxante-Quatre",
+		"postcode": "B42 1QZ",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Pavel Smirnoff",
+		"postcode": "B69 1EQ",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Gunther Paulaner",
+		"postcode": "B30 1DH",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "John Stella",
+		"postcode": "BL1 3RZ",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Pierre Guinness",
+		"postcode": "B10 9NN",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Vincent Pride",
+		"postcode": "B17 8NL",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Nathan Pilsner",
+		"postcode": "B20 3PU",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Pavel Heineken",
+		"postcode": "B19 1HP",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Juan Artois",
+		"postcode": "B23 5LD"
+	},
+	{
+		"name": "Jacques Desperados",
+		"postcode": "B9 5AA"
+	},
+	{
+		"name": "Juan Stella",
+		"postcode": "B18 4DL",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Agnezka San Miguel",
+		"postcode": "B63 4JU",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Pierre Stella",
+		"postcode": “B13 1LE”,
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Vincent San Miguel",
+		"postcode": "B29 7JL",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Juan Smirnoff",
+		"postcode": "B18 4EJ",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Nathan Guinness",
+		"postcode": "B18 5DX",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Katarzina Pride",
+		"postcode": "B9 5NT",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Michal Pride",
+		"postcode": "B29 6ST",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Pierre Artois",
+		"postcode": "B79 7ES"
+	},
+	{
+		"name": "Michal Stella",
+		"postcode": "B36 8BG"
+	},
+	{
+		"name": "Nathan Paulaner",
+		"postcode": "B19 1HN",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Nathan Artois",
+		"postcode": "B36 8JE",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Pavel Stella",
+		"postcode": "B70 7SB",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "John San Miguel",
+		"postcode": "B12 0YH",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Katarzina Desperados",
+		"postcode": "B8 3AP",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Jean-Michel Stella",
+		"postcode": "B20 3ED"
+	},
+	{
+		"name": "Paul Kronembourg",
+		"postcode": "B9 5EP"
+	},
+	{
+		"name": "Paul Doombar",
+		"postcode": "B16 9SQ",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Jacques Bombarider",
+		"postcode": "B8 2XQ"
+	},
+	{
+		"name": "Gunther Bombarider",
+		"postcode": "BL1 2sr",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Michal Pilsner",
+		"postcode": "B9 5EH",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Vitor Kronembourg",
+		"postcode": "B33 8DR",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Jacques Doombar",
+		"postcode": "B29 5DS",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Agnezka Kronembourg",
+		"postcode": "B20 2AH",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Jean-Michel Desperados",
+		"postcode": "B33 0XL",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Pavel San Miguel",
+		"postcode": "B19 1LL",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Michal Artois",
+		"postcode": "B42 2SY"
+	},
+	{
+		"name": "Vitor Pilsner",
+		"postcode": "BD3 0AD"
+	},
+	{
+		"name": "Nathan Bombarider",
+		"postcode": "BL3 5NU",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Katarzina Paulaner",
+		"postcode": "B24 9SJ",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Jean-Michel Guinness",
+		"postcode": "B44 8NB"
+	},
+	{
+		"name": "Vincent Bombarider",
+		"postcode": "B17 8JH",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Vitor Paulaner",
+		"postcode": "B6 6LT",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Nathan Kronembourg",
+		"postcode": "B21 8EF"
+	},
+	{
+		"name": "Pavel Paulaner",
+		"postcode": "B8 1NS",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Vitor Heineken",
+		"postcode": "B4 6HJ",
+		"modeOfTransport": {
+			"type": "car",
+			"speed": 50
+		}
+	},
+	{
+		"name": "Vincent Smirnoff",
+		"postcode": "B23 7SF",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	},
+	{
+		"name": "Vitor San Miguel",
+		"postcode": "B18 5RD"
+	},
+	{
+		"name": "Pavel Seize-Soinxante-Quatre",
+		"postcode": "B11 3LH"
+	},
+	{
+		"name": "Pierre Paulaner",
+		"postcode": "B6 7PT",
+		"modeOfTransport": {
+			"type": "bike",
+			"speed": 15.5
+		}
+	}]
+}

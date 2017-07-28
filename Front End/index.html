@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="robots" content="noindex">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+    <title>Nearest Candidate</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Stylesheets-->
+    <link rel="stylesheet" href="css/materialize.css">
+    <link rel="stylesheet" href="css/leaflet.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="navbar-fixed">
+      <nav class="red darken-4" role="navigation">
+        <div class="nav-wrapper container">
+          <a id="logo-container" href="#" class="brand-logo">Nearest Candidates</a>
+        </div>
+      </nav>
+    </div>
+    <div id="homePage" class="page">
+      <div class="container">
+        <div class="section">
+            <!--Table was made responsive using Materialize class-->
+            <table border="1" class="responsive-table">
+              <tr>
+                <td>
+                    <!--Controls map size-->
+                  <div class="col s12" id="map" style="height: 600px; width:500px;"></div>
+                </td>
+                <td>
+                <!--Results displayed here-->
+                  <div id="side_bar"></div>
+                </td>
+              </tr>
+            </table>
+            <!--Search Function-->
+            <div class="input-field col s6">
+                <input id="address" type="text" class="autocomplete">
+                <label for="address">Enter Postcode</label>
+                <input type="button" value="Search" onclick="codeAddress();">
+            </div>
+            
+            <!--Info div was switched to hidden due to 'displaying processing'-->
+            <div id="info" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+    <div>
+        
+    </div>
+
+    <!--  Scripts-->
+    <script src="js/libs/jquery-2.1.1.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=geometry"></script>
+    <!--Script doesn't contain API key but still accesses Google Maps API-->
+    <script src="js/main.js"></script>
+    <script src="js/libs/materialize.min.js"></script>
+    <script src="js/autocomplete.js"></script>
+    <script src="js/libs/leaflet.js"></script>
+  </body>
+</html>

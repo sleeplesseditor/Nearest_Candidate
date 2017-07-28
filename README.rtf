@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww19660\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 KEY POINTS\
+\
+- The original pre-customised main map and search code was found at: {\field{\*\fldinst{HYPERLINK "https://stackoverflow.com/questions/35629288/google-maps-api-find-nearest-locations"}}{\fldrslt https://stackoverflow.com/questions/35629288/google-maps-api-find-nearest-locations}}.\
+\
+- The original pre-customised autocomplete script was found at: {\field{\*\fldinst{HYPERLINK "https://codepen.io/tofanelli/pen/ZOqNNO"}}{\fldrslt https://codepen.io/tofanelli/pen/ZOqNNO}}.\
+\
+- In order for the candidates.json data to work with this code, the postcodes were converted into a series of latitudinal and longitudinal coordinates (with the postcodes remaining in the individual pin labels for their respective clients) and added into the main.js file as the variable \'91locations\'92.\
+\
+- The nearest candidate results offer the six nearest candidates to the postcode entered, with the closest at the top of the list, and five nearest alternatives listed below. The number of candidates shown can be easily modified within the main.js file, under the \'91Displays results of search\'92 comment.\
+\
+CURRENT ISSUES TO BE RESOLVED\
+\
+- The estimated travel time is currently calculated by assuming that the candidates are all driving. This is due to a current issue in incorporating the original JSON data into the search function. If the search function were to be disassembled and rebuilt from scratch, search results would be affected based on listed transport mode and use a simplified coordinate system. \
+\
+- Some Candidate entries displaying postcodes on search, but not showing pins. Suggests potential conflict in processing coordinates of Google Maps polygons.\
+\
+- An autocomplete function on the search engine lists Client postcodes, but currently does not list client names.\
+\
+- Minor aesthetic issues involving Materialize CSS currently experienced on Firefox and Opera browsers \'96 specifically headings for forms not rendering/responding correctly.\
+\
+PROPOSED FURTHER DEVELOPMENT OF APPLICATION\
+\
+- Include fully functioning drop-down list of Client names and postcodes, rather than current autocomplete feature \'96 search function for other postcodes to be kept as separate additional option.\
+- Refine coordinates system to only require latitude and longitude of postcode, rather than rely on existing polygon system.\
+- Directly implement specific Google Maps API Key, rather than access via script source.\
+- Add options for adding new Clients and Candidates to application \'96 would require user login system for permissions/security.\
+- Use additional Google Maps API features to incorporate suggested routes/additional transport options.\
+- Explicitly label transport mode of Candidates on map marker \'96 and incorporate into search function (possible option for preferring candidates with specific transport modes).\
+- Alter the manner in which the table displays results data to separate the closest candidate from the four alternative choices, with headings for both sections (such as \'91Nearest Candidate\'92 and \'91Alternative Candidates\'92).}

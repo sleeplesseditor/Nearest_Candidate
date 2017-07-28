@@ -1,0 +1,36 @@
+{
+  "Clients": [
+    {
+      "name":"Ale",
+      "postcode":"B4 7XG"
+    },
+    {
+      "name":"Lager",
+      "postcode":"B1 2AA"
+    },
+    {
+      "name":"IPA",
+      "postcode":"B28 8LE"
+    },
+    {
+      "name":"Stout",
+      "postcode":"B13 8PQ"
+    },
+    {
+      "name":"Porter",
+      "postcode":"B8 2LY"
+    },
+    {
+      "name":"Bitter",
+      "postcode":"B69 2BH"
+    },
+    {
+      "name":"Red Ale",
+      "postcode":"B20 2EZ"
+    },
+    {
+      "name":"Pilsner",
+      "postcode":"B7 4BG"
+    }
+  ]
+}
